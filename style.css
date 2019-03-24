@@ -1,0 +1,150 @@
+@charset "utf-8";
+/* CSS Document */
+
+/*ESTILOS GENERALES*/
+@font-face{
+	font-family:Arial;
+}
+
+
+p, a, li, h1, h2, h3, h4, h5, h6 {
+	font-family: 'Open Sans', sans-serif;
+	
+}
+
+
+/*CABECERA*/
+.cabecera{
+	width:100%;
+	overflow:50%;
+	background-color:#C9050C;
+    float:right;
+}
+.logo{
+	width:20%;
+	overflow:hidden;
+    float:left;
+}
+.logo img{
+	width:50px;
+	margin:8px 8px 8px 20px;
+	border:1px solid white;
+}
+.menu{
+	width:%;
+	float:left;
+	
+}
+.menu ul li{
+	list-style:none;
+	float:left;
+	margin-top:2px;
+}
+.menu ul li a{
+	color:#ffffff;
+	text-decoration:none;
+	margin-right:20px;
+	font-size:12px;
+	
+}
+.social{
+	width:%;
+	float:left;
+	overflow:hidden;
+	margin-top:px;
+}
+
+/*PARALLAX*/
+.parallax{
+	width:100%;
+	height:300px;
+	overflow:hidden;
+	background-image:url("img/parallax.jpg");
+	backgrpund-attachment:fixed;
+	padding-top:100px;
+
+}
+.parallax h3{
+text-align:center;
+	background-color:rgba(255, 255, 255, 0.6)
+	padding:10px;
+	color:#555;
+	font-size:36px;
+}
+
+/*PLAZA DE COMIDAS*/
+.plaza{
+width:1200px;
+margin:auto;
+overflow:hidden;
+margin-top:30px;
+	
+}
+.plaza img{
+float:left;	
+	
+}
+.plaza h3{
+	color:#C9050C;
+	text-align:right;
+	font-weight:bold;
+}
+.plaza1 {
+	margin:20px 20px 20px 20px; 
+}
+.plaza2{
+	margin:15px 0px 0px 20px;
+}
+
+/*TECNOLOGIA*/
+.tecnologia{
+width:100%;
+height:430px;
+background-image:radial-gradient(#dddddd, #bbbbbb);
+	
+}
+
+.tecnologia img{
+display:block;
+margin:auto;
+	align:center;
+}
+/*MODA*/
+.moda{
+max-width:1200px;
+	overflow:hidden;
+margin:30px auto;
+}
+.moda h3{
+color:#C905OC;
+text-align:center;
+font-weight:bold;
+}
+.moda img{
+margin:3px;
+}
+/*HOGAR*/
+.hogar{
+	width:100%;
+	height:500px;
+}
+.hogar h3{
+color:#C9050C;
+text-align:right;
+font-weight:bold;
+}
+/*PIEDEPAGINA*/
+.piedepagina{
+width:100%;
+	background-color:#282828;
+	
+}
+.piedepagina1{
+	max-width:1200px;
+	margin:auto;
+}
+.piedepagina1 p{
+taxt-align:center;
+	color:#bbb;
+	padding:5px;
+}
