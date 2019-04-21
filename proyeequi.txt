@@ -89,7 +89,7 @@
 
                 <ul>
 
-                <li><a href="">Hoteles</a> 
+                <li><a href="galeria1.html">Poemas</a> 
 
                 </ul>
 
@@ -97,7 +97,7 @@
 
                 <ul>
 
-                <li><a href="">Rentas Vacacionales</a> 
+                <li><a href="galeria2.html">Trabalenguas</a> 
 
                 </ul>
 
@@ -105,7 +105,7 @@
 
                 <ul>
 
-                <li class=><a href="">Paquetes</a>
+                <li><a href="galeria3.html">Adivinanzas</a>
 
                 </ul>
 
@@ -113,19 +113,12 @@
 
                 <ul>
 
-                <li><a href="">Vuelos</a>
+                <li><a href="galeria4.html">Cuentos</a>
 
                 </ul>
 
                
 
-                <ul>
-
-                <li><a href=""> Tours</a>
-
-                <ul> 
-
-                </ul>
 
                 </div>
 
@@ -136,10 +129,13 @@
                                     <div class="slider">
 			<ul>
 				<li>
-  <img src="img/slider11.jpg" alt="slider1">
+  <img src="img/llorona1.jpg" alt="llorona1">
  </li>
 				<li>
-  <img src="img/slider12.jpg" alt="slider12">
+  <img src="img/llorona2.jpg" alt="llorona2">
+</li>
+                                <li>
+  <img src="img/llorona3.jpg" alt="llorona3">
 </li>
 
 			</ul>
@@ -150,12 +146,14 @@
                                      <div class="slid">
 			<ul>
 				<li>
-  <img src="img/slider11.jpg" alt="slider1">
+  <img src="img/charro4.jpg" alt="charro4">
  </li>
 				<li>
-  <img src="img/slider12.jpg" alt="slider12">
+  <img src="img/charro2.jpg" alt="charro2">
 </li>
-
+                                <li>
+  <img src="img/charro3.jpg" alt="charro3">
+</li>
 			</ul>
 		</div>	      
           
@@ -164,11 +162,14 @@
                                         <div class="sli">
 			<ul>
 				<li>
-  <img src="img/slider11.jpg" alt="slider1">
+  <img src="img/callejon1.jpg" alt="callejon1">
  </li>
 				<li>
-  <img src="img/slider12.jpg" alt="slider12">
+  <img src="img/callejon2.jpg" alt="callejon2">
 </li>
+                                <li>
+  <img src="img/callejon3.jpg" alt="callejon3">
+ </li>
 
 			</ul>
 		</div>	      
@@ -178,10 +179,13 @@
                                <div class="sl">
 			<ul>
 				<li>
-  <img src="img/slider11.jpg" alt="slider1">
+  <img src="img/momias1.jpg" alt="momias1">
  </li>
 				<li>
-  <img src="img/slider12.jpg" alt="slider12">
+  <img src="img/momias2.jpg" alt="momias2">
+</li>
+			<li>
+  <img src="img/momias3.jpg" alt="momias3">
 </li>
 
 			</ul>
@@ -192,10 +196,13 @@
                                  <div class="s">
 			<ul>
 				<li>
-  <img src="img/slider11.jpg" alt="slider1">
+  <img src="img/nahual1.jpg" alt="nahual1">
  </li>
 				<li>
-  <img src="img/slider12.jpg" alt="slider12">
+  <img src="img/nahual2.jpg" alt="nahual2">
+</li>
+                               <li>
+  <img src="img/nahual3.jpg" alt="nahual3">
 </li>
 
 			</ul>
@@ -204,7 +211,7 @@
 
                 <nav class="p">
 
-                <h1>Pie de pagina</h1>
+                <h1>Copyright 2019 Derechos Reservados</h1>
 
                 </nav>
 
