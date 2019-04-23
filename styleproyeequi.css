@@ -16,7 +16,7 @@ margin-left: auto;margin-right: auto; float: right
 
 div.lista{
 
-width: 180px; height: 400px; background-color:lightblue;
+width: 180px; height: 400px; background-color:orange;
 
 float: left;
 
@@ -254,7 +254,7 @@ font-size: 20px
 
 nav.n ul.n li.n a.n{
 
-text-decoration: none;color:slateblue;
+text-decoration: none;color:yellow;
 
 }
 
@@ -418,7 +418,7 @@ margin: 7px -2px;
 
                 #Lista li a:hover{
 
-                               background:skyblue;
+                               background:yellow;
 
                 }
 
