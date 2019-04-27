@@ -3,6 +3,11 @@
                 <html>
 
                 <header class="cabecera">
+<div id="cabecera">
+        <p align="center">Literatura</p>
+         <img src=
+                   "img/banner.jpg" width="1888" height="250">
+       </div>
 
                 <title>Mitos</title>
 
@@ -11,14 +16,12 @@
  
 
                 </header>
-<body style="background-color:#FF0000;">
-
-                <body background="imagenes/6.jpg">
+<body style="background: url(img/fondo.jpg); background-repeat: no-repeat; background-attachment: fixed;" > 
 
                 <section class="contenedorgeneral">
 
 
-                <ssection class="titulo">
+                <section class="titulo">
 
                 <img src="imagenes/5.gif">
 
@@ -208,13 +211,12 @@
 			</ul>
 		</div>	      
                 <footer class="pie">
-
-                <nav class="p">
+<nav class="p">
+                
 
                 <h1>Copyright 2019 Derechos Reservados</h1>
-
-                </nav>
-
+</nav>
+                
                 </section>
 
                 </footer>
