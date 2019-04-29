@@ -51,7 +51,7 @@
       #contenido {
         background-color: burlywood;
         float:center;
-        height:2318px;
+        height:1330px;
         padding:30px;
         width:1292px;
       }
@@ -74,44 +74,74 @@
     <div id="contenedor">
       <div id="cabecera">
         <div id="contenido">
-        <h1>MANIPULACIÓN DEL ADN</h1>
+        <h1>CANCIONES DE CUNA CORTAS</h1>
    
-   <h2>La manipulación genetica y su genesis</h2>
-     <p>El estudio de la Genética permite comprender qué es lo que ocurre en la reproducción de los seres vivos y cómo puede ser que entre seres humanos se transmitan características biológicas, físicas, de apariencia y hasta de personalidad. El principal objeto del estudio de la Genética son los genes formados por segmentos de ADN, el ADN controla la estructura y funcionamiento de cada célula con la capacidad de crear copias exactas de sí mismo. La Genética se subdivide en varias ramas como son: la Clásica o Mendeliana, que se ocupa del estudio de los cromosomas y los genes, y de cómo se heredan de generación en generación; la Cuantitativa, analiza el impacto de múltiples genes sobre el fenotipo  especialmente cuando estos tienen efectos de pequeña escala; la Molecular es la que estudia el ADN, su composición y la manera en que se duplica, así como la función de los genes desde el punto de vista molecular; la Evolutiva y de poblaciones, se preocupa del comportamiento de los genes en una población, y cómo esto determina la evolución de los organismos, y por último se cita a la Ingeniería y Desarrollo, una rama de la Biotecnología que se ocupa de cómo los genes controlan el desarrollo de los organismos vivos; de esta última se deriva como disciplina la Manipulación Genética.La Ingeniería Genética es la especialidad que utiliza tecnología de la manipulación y trasferencia del ADN de unos organismos a otros, permitiendo controlar algunas de sus propiedades genéticas, mediante esta ingeniería se pueden potenciar y eliminar en el laboratorio cualidades de organismos, por ejemplo, se pueden corregir defectos genéticos (terapia génica), fabricar antibióticos en las glándulas mamarias de vacas de granja o clonar animales como la oveja Dolly. Es necesario tratar una de las aristas de esta rama de la Genética, la Ingeniería Genética Humana, definida como la alteración del genotipo de un individuo con el propósito de elegir el fenotipo antes de la concepción o cambiar en un niño o un adulto el fenotipo ya existente. Esto promete curar enfermedades genéticas como la fibrosis quística e Incrementar la resistencia de las personas hacia los virus. Se especula que este tipo de ingeniería podría utilizarse para cambiar la apariencia física, el metabolismo, e incluso mejorar las facultades mentales como la memoria y la inteligencia. Existen dos tipos de Ingeniería Genética Humana: la negativa y la positiva.; la primera pretende eliminar los trastornos genéticos y la segunda tiene por objeto alterar la expresión fenotípica para obtener un individuo mejorado, cuando se tratan problemas originados por enfermedades genéticas, una solución es la terapia génica, conocida como ya se expresó, como Ingeniería genética negativa, una enfermedad genética es una condición causada por el código genético del individuo, tal es el caso del autismo; cuando esto sucede los genes pueden expresarse de manera desfavorable o no expresarse lo que de forma general conduce a más complicaciones. El potencial de la Ingeniería Genética para curar afecciones médicas abre la pregunta de qué es exactamente una afección, algunos ven el envejecimiento y la muerte como afecciones médicas por lo tanto son potenciales objetivos para la búsqueda de una solución con la ingeniería,Significando esta una herramienta clave para la cura de dichas afecciones, la diferencia entre una cura y una mejora desde esta perspectiva no es más que una cuestión de grado, teóricamente la Ingeniería Genética puede usarse para cambiar de modo drástico el genoma de las personas lo cual podría hacer posible que los individuos regeneraran extremidades y otros órganos incluso los complejos en extremo como la columna vertebral, se puede utilizar también, entre otras cosas, para hacer más fuertes a las personas, más rápidas, más inteligentes o para incrementar en ellas la capacidad pulmonar; si un gen existe en la naturaleza, podría integrarse en una célula humana. Desde este punto de vista, por ejemplo, no existiría diferencia cuantitativa (solo cualitativa) entre una intervención genética para curar la atrofia muscular y una intervención genética para mejorar las funciones musculares.</p>
-                                    <img src="img/manipulacion%20genetica.jpg" width="600" height="200" >
+   <h2>Duermete niño</h2>
+     <p>«Duérmete niño,
+         duérmete ya,
+         que viene el coco
+         y te comerá.»</p>
+                                    <img src="img/duermet%20ni%C3%B1o.jpg" width="600" height="200" >
         
-   <h3>Aplicaciones de la ingenieria genetica</h3>
-     <p>La Ingeniería Genética tiene numerosas aplicaciones en campos diversos que van desde la medicina hasta la industria, sin embargo, se pudiera hacer una clasificación bastante simple bajo la cual se contemplan todos los usos de estas técnicas: a) aquellos que comprenden la terapia génica y b) aquellos que se encuentran bajo el ala de la Biotecnología. Las aplicaciones de la ingeniería genética pueden ser divididas en cinco áreas de trabajo.
- La ingeniería genética puede usarse:
-En microorganismos
-En las plantas
-En los animales
-En células cultivadas de animales, plantas o humanos
-En humanos
-Microorganismos manipulados por ingeniería genética pueden ser usados para fabricar Proteínas humanas para aplicaciones médicas; en 1978 se consiguió que una bacteria "programada" fabricara insulina humana, la cual comenzó su comercialización desde 1982. Gracias a esto es posible obtener insulina en grandes cantidades y con bajos costos aparte de que es más segura que la insulina que se usaba antes (de cerdo), esto se ha conseguido también con otras Proteínas humanas como hormona del crecimiento y factores de la coagulación.
-Estos microorganismos también se han usado en la agricultura pues son capaces de Mejorar las cosechas al proporcionar resistencia a heladas, enfermedades, herbicidas y otros Factores, también se han usado en la alimentación; en concreto para producir pan pero estas Aplicaciones han sido muy polémicas en todos los sentidos, la ingeniería genética en los animales se ha usado con diversos fines. Se han conseguido animales transgénicos que producen proteínas humanas en su leche (_ 1-Manipulación genética 5-antitripsina), o bien para estudiar el desarrollo de enfermedades humanas, en concreto, se ha conseguido un ratón "knock-out" para el gen de la fibrosis quística a fin de estudiar las posibles terapias génicas. La ingeniería genética actuando sobre plantas y animales ha conseguido aumentar la Cantidad de ciertos productos en estos organismos, esto ha traído ciertos problemas éticos. Con cultivos de células animales y vegetales se ha podido fabricar proteínas de interés
-Humano y/o para el hombre, con estas células tenemos potenciales fábricas de cualquier Producto genético; también es posible fabricar con ellas virus, que serán utilizados como Vectores en terapia génica otras aplicaciones de estas células son las propiamente empíricas Para estudiar el funcionamiento de la regulación de la expresión génica, la interacción con Diversos factores. En cuanto a su aplicación en los hombres, hay que señalar que una gran proporción de Las enfermedades humanas son debidas a causas genéticas (el 30% de los niños ingresados en Hospitales, lo son por enfermedades genéticas), las aplicaciones actuales de la ingeniería Genética en los hombres se limitan a enfermedades en las que se ha identificado el gen, e Incluyen la posibilidad de una terapia génica (aunque no siempre).</p>
-                                     <img src="img/Aplicaciones%20de%20la%20ingenieria%20genetica.jpg" width="600" height="200">
+   <h3>Arrorro mi niño </h3>
+     <p>«Arrorró mi niño,
+         arrurrú mi sol,
+         arrorró pedazo,
+         de mi corazón.
+
+         Este niño lindo
+         ya quiere dormir;
+         háganle la cuna
+         de rosa y jazmín.
+
+         Háganle la cama
+         en el toronjil,
+         y en la cabecera
+         pónganle un jazmín
+         que con su fragancia
+         me lo haga dormir.
+
+         Esta leche linda
+         que le traigo aquí,
+         es para este niño
+         que se va a dormir.
+
+         Este lindo niño
+         se quiere dormir…
+         cierra los ojitos
+         y los vuelve a abrir.»</p>
+                                     <img src="img/arroro%20ni%C3%B1o.jpg" width="600" height="200">
           
-          <h4>Usos de la terapia genetica</h4>
-          <p>Tiene como objetivo localizar “genes defectuosos” en el genoma humano, esto es identificar información genética que provoque enfermedades y cambiarla por otro sin tales defectos, la ventaja quizás más importante de este método es que se podrían identificar en una persona enfermedades potenciales que aún no se han manifestado para reemplazar el gen defectuoso o iniciar un tratamiento preventivo que atenúe los efectos de la enfermedad; los alcances de la terapia génica no solo se limitan a las enfermedades genéticas sino también a algunas de origen externo al organismo: virales, bacterianas, protozoicas, entre otras. Ello demuestra que la Ingeniería Genética aplicada a la medicina podría significar el futuro reemplazo de las técnicas terapéuticas actuales por otras más sofisticadas y con mejores resultados, sin embargo, la complejidad de estos métodos hace que sea todavía inalcanzable tanto por causas científicas como económicas.</p>
-                                        <img src="img/terapia%20genetica.jpg" width="600" height="200">
+    <h4>Este nene lindo quiere dormir</h4>
+    <p>«Este nene lindo
+        se quiere dormir,
+        y el pícaro sueño
+        no quiere venir.
+
+        Este nene lindo
+        que nació de noche,
+        quiere que lo lleven
+        a pasear en coche.»</p>
+                                        <img src="img/este%20nene%20lindo.jpg" width="600" height="200">
                                              
-          <h5>Usos de la biotecnologia</h5>
-          <p>El conocimiento de los genes no solo se limita a la medicina, la posibilidad de obtener plantas y animales transgénicos con fines comerciales es demasiado tentadora como para no intentarlo. Las biotecnologías consisten en la utilización de bacterias, levaduras y células animales en cultivo para la fabricación de sustancias específicas. Permiten, gracias a la aplicación integrada de los conocimientos y técnicas de la Bioquímica, la Microbiología y la Ingeniería Química, aprovechar en el plano tecnológico las propiedades de los microorganismos y los cultivos celulares. Permiten producir un gran número de sustancias y compuestos a partir de recursos renovables y disponibles en abundancia.</p>
-                                <img src="img/biotecnologia.jpg" width="600" height="200">              
+   <h5>El niño tiene sueño</h5>
+    <p>«Esta niña tiene sueño
+        tiene ganas de dormir,
+        tiene un ojito cerrado,
+        el otro no lo puede abrir.»</p>
+                                <img src="img/el%20ni%C3%B1o%20tiene%20sue%C3%B1o.jpg" width="600" height="200">              
           
-          <h6>Formas de manipulación genetica</h6>
-          <p>Se refieren cuatro formas de manipulación genética según la finalidad que se persigue y a los sujetos que involucra:
-A) Manipulación con fines terapéuticos mediante la intervención génica de células somáticas en un individuo, aquella utilizada para curar alguna enfermedad o defecto en una persona viva.
-B) Terapia de la línea germinal (terapia génica) destinada a la persona por nacer ya sea antes de la concepción o durante ella, con finalidad terapéutica de modificar el genoma del individuo y evitar en el nuevo ser algún defecto de génesis genética.
-C) Manipulación genética perfectiva: a través de ella se inserta un gen para mejorar determinado carácter somático de la persona.
-D) Manipulación eugénica destinada a modificar los rasgos humanos codificados por un gran número de genes determinantes de los rasgos específicos de la personalidad, inteligencia, carácter. 
-Otros tipos de manipulación genética son: 
-La creación de embriones con el fin de realizar manipulaciones genéticas y la clonación, que implica la posibilidad de obtener genéticamente un individuo idéntico a otro, la manipulación genética con fines terapéuticos no merece reproche alguno ya que si bien se altera el patrimonio genético de un individuo ello se hace con el fin de que en el futuro viva de modo saludable. Desde una visión científica implica la posibilidad de evitar, controlar enfermedades hasta hoy incurables, aunque tal vez prevenibles, como por ejemplo el cáncer.
-El Proyecto Genoma Humano permite, entre otras cosas, conocer si una persona tiene tendencia a contraer algún tipo de enfermedad genética; ejemplo, si tiene propensión a desarrollar el mal de Alzheimer. Este mapa genético dispone la posibilidad de curar o evitar una determinada enfermedad, o al menos anticiparse a lo que la naturaleza ha condicionado para un individuo, porque permite tratar la enfermedad aun cuando no se han manifestado sus primeros síntomas, por el contrario a lo analizado antes, las formas de manipulación genética perfectiva y eugénica, sí representan problemas desde el punto de vista ético, porque determinan manipulaciones genéticas con fines eugenésicos; quien tiende a mejorar determinado carácter somático de una persona por nacer, por ejemplo, el color de ojos, la piel, condiciona antes del nacimiento del individuo un cambio en su identidad y ello tiene diferentes connotaciones desde el punto de vista social. 
-El color de la piel, por ejemplo, es visto como una desventaja social, por lo que una pareja afro-norteamericana podría querer procrear un hijo blanco; se tendría en las manos la posibilidad de procrear un “nuevo Hitler”, tanto o más peligrosa es la manipulación genética eugénica pues entre sus consecuencias está el riesgo de generar seres superdotados que puedan dominar a seres humanos naturales, también este tipo de manipulación conlleva al peligro de generar seres “perfectos”, por supuesto, de acuerdo al fenotipo que se considere “perfecto” en un momento histórico dado, algo también preocupante es la implicación que ello podría tener en la diversidad que caracteriza a la especie humana todos los seres serían “iguales” (no en términos de clonación precisamente), es decir, todos los humanos estarían “formados o manipulados” bajo el mismo parámetro de “belleza”.</p>
-                                 <img src="img/ormas%20aplicacion%20genetica.jpg" width="600" height="200">                              
+    <h6>Duermete niño, que tengo que hacer</h6>
+    <p>«Duérmete mi niño, que tengo que hacer,
+        lavar los pañales, darte de comer.
+        Duérmete mi niño que tengo que hacer,
+        lavar los pañales y darte de beber.
+
+        Ese niño quiere que lo duerma yo,
+        que lo duerma la madre que lo parió.
+        Ese niño quiere que lo duerma yo,
+        que lo duerma la madre que lo parió.»</p>
+                                 <img src="img/duermte%20ni%C3%B1o%20que%20tengo%20que%20hacer.jpg" width="600" height="200">                              
           
            <div id="pie">
         <p>Copyright 2013 Maridian Con.</p>

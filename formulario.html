@@ -1,18 +1,32 @@
-<!DOCTYPE html>
-<html lang="es">
+<¡DOCTYPE html>
+<html>
 <head>
-<title>Formulario de Contacto</title>
-<meta charset="UTF-8">
-<link rel="stylesheet" href="estilos.css">
+	<title>Formulario</title>
+<link rel="stylesheet" type="text/css" href="estilo.css">
 </head>
 <body>
-<form action="">
-<h2>CONTACTO</h2>
-<input type="text" name="Nombre" placeholder="Nombre">
-<input type="text" name="Correo" placeholder="Correo">
-<input type="text" name="Telefono" placeholder="Telefono">
-<textarea name="mensaje" placeholder="Escriba aqui su mensaje"></textarea>
-<input type="button" value="ENVIAR" id="">
-</form>
+	<div class="form">
+		<form action="#" method="POST">
+			<p>Nombre</p>
+			<label for="nombre">Su nombre</label>
+			<br>
+			<input type="text" name="nombre" placeholder="Nombre" required>
+			<p>Correo</p>
+			<label for="correo">Direccion de Correo</label>
+			<br>
+			<input type="email" name="mensaje" placeholder="alguien@algo.com" required>
+			<p>Telefono</p>
+			<label for="telefono">Ingrese su numero de telefono</label>
+			<br>
+			<input type="text" name="telefono" placeholder="Telefono" required>
+			<p>Mensaje</p>
+			<label for="mensaje">Ingrese su mensaje</label>
+			<br>
+			<textarea name="mensaje" placeholder="Mensaje" required></textarea>
+			<br>
+			<br>
+			<input type="submit" value="Enviar">
+		</form>
+	</div>
 </body>
 </html>

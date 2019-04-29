@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="es-ES">
+  <head>
+    <meta charset="utf-8">
+    <title>Ex</title>
+    <style>
+      * { 
+        margin:0;
+        padding:0;
+      }
+        background-color:#333;
+        font-family:arial;
+      }
+ h1 {
+        color:black;
+        font-size:24px;
+      }
+ h2 {
+        color:black;
+        font-size:24px;
+      }
+ h3 {
+        color:black;
+        font-size:24px;
+      }
+ h4 {
+        color:black;
+        font-size:24px;
+      }
+ h5 {
+        color:black;
+        font-size:24px;
+      }
+ h6 {
+        color:black;
+        font-size:24px;
+      }
+        
+      p {
+        font-size:16px;
+      }
+        
+      ul {
+        list-style-type:none;
+      }
+     
+      #contenedor {
+        margin:0 auto;
+        width:1100x;
+      }
+      #contenido {
+        background-color: chartreuse;
+        float:center;
+        height:1637px;
+        padding:30px;
+        width:1292px;
+      }
+      
+ .contenedor > div {
+        flex:5;
+        display:flex;
+}
+      
+      #pie { 
+        background-color: darkorange;
+        clear:both;
+        color: dimgrey;
+        padding:10px;
+        text-align:center;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="contenedor">
+      <div id="cabecera">
+        <div id="contenido">
+        <h1>PROSA</h1>
+   
+   <h2>Prosa Poetica</h2>
+     <p>Era un día nublado. Hacia fresco y los árboles comenzaban a adquirir un fuerte y radiante color verde. Todo se observaba limpio y refrescante. Las lluvias de tardes pasadas dejaban a su paso ese olor tan peculiar que solo ellas traen consigo.
+     
+     Las nubes se asentaron sobre el cielo azul. Lo grandes árboles, fuertes y verdes se asomaban por doquier. Las lluvias ya habían hecho de las suyas. El ambiente tenía un olor a tierra mojada.
+
+     La cocina estaba vacía. Semanas atrás dejamos la casa de nuestros sueños. Todo lo que en ella albergaba vino con nosotros a nuestra nueva y humilde morada. Las largas tertulias sobre la mesa de aquella cocina quedaron atrás. Hoy solo nos quedan los recuerdos de nuestra estancia en aquella grande y luminosa casa.
+
+     Hemos dejado nuestra casa. Todas las habitaciones ahora están vacías. Hace días que ya vivimos en la nueva casa. Seguimos añorando nuestra vida pasada. Nos estamos acostumbrando a vivir apretados y sin lujos. Siempre recordaremos las largas pláticas que compartimos en la cocina de nuestra antigua casa.</p>
+                                    <img src="img/poetica.jpg" width="600" height="200" >
+        
+   <h3>Prosa en Carta</h3>
+     <p>Era un día nublado. Hacia fresco y los árboles comenzaban a adquirir un fuerte y radiante color verde. Todo se observaba limpio y refrescante. Las lluvias de tardes pasadas dejaban a su paso ese olor tan peculiar que solo ellas traen consigo.
+
+     Las nubes se asentaron sobre el cielo azul. Lo grandes árboles, fuertes y verdes se asomaban por doquier. Las lluvias ya habían hecho de las suyas. El ambiente tenía un olor a tierra mojada.
+
+     La cocina estaba vacía. Semanas atrás dejamos la casa de nuestros sueños. Todo lo que en ella albergaba vino con nosotros a nuestra nueva y humilde morada. Las largas tertulias sobre la mesa de aquella cocina quedaron atrás. Hoy solo nos quedan los recuerdos de nuestra estancia en aquella grande y luminosa casa.
+
+     Hemos dejado nuestra casa. Todas las habitaciones ahora están vacías. Hace días que ya vivimos en la nueva casa. Seguimos añorando nuestra vida pasada. Nos estamos acostumbrando a vivir apretados y sin lujos. Siempre recordaremos las largas pláticas que compartimos en la cocina de nuestra antigua casa.</p>
+                                     <img src="img/carta.jpg" width="600" height="200">
+          
+     <h4>Prosa de texto educativo</h4>
+     <p>Era un día nublado. Hacia fresco y los árboles comenzaban a adquirir un fuerte y radiante color verde. Todo se observaba limpio y refrescante. Las lluvias de tardes pasadas dejaban a su paso ese olor tan peculiar que solo ellas traen consigo.
+
+     Las nubes se asentaron sobre el cielo azul. Lo grandes árboles, fuertes y verdes se asomaban por doquier. Las lluvias ya habían hecho de las suyas. El ambiente tenía un olor a tierra mojada.
+
+     La cocina estaba vacía. Semanas atrás dejamos la casa de nuestros sueños. Todo lo que en ella albergaba vino con nosotros a nuestra nueva y humilde morada. Las largas tertulias sobre la mesa de aquella cocina quedaron atrás. Hoy solo nos quedan los recuerdos de nuestra estancia en aquella grande y luminosa casa.
+
+     Hemos dejado nuestra casa. Todas las habitaciones ahora están vacías. Hace días que ya vivimos en la nueva casa. Seguimos añorando nuestra vida pasada. Nos estamos acostumbrando a vivir apretados y sin lujos. Siempre recordaremos las largas pláticas que compartimos en la cocina de nuestra antigua casa.</p>
+                                        <img src="img/educativo.jpg" width="600" height="200">
+                                             
+     <h5>Prosa Cuento Infantil</h5>
+     <p>Érase una vez una familia conformada por mamá, papá y tres hermanas. Vivían en las afueras del pueblo, en una casa sencilla de piedra, con dos habitaciones, un lavabo, cocina y chimenea.
+
+     El padre era oficinista, la madre maestra de escuela y las hijas estudiaban allí. En la mañana la familia salía a sus lugares, a la escuela y trabajo. Al mediodía las damas regresaban a casa para hacer las labores del hogar y los deberes escolares.</p>
+                                <img src="img/cuentos%20infantiles.jpg" width="600" height="200">              
+          
+     <h6>Prosa sobre la Redes Sociales</h6>
+     <p>Las redes sociales (RRSS) son medios de comunicación que están al alcance de todos aquellos interesados de compartir contenidos de distinta índole con otros usuarios en tiempo real.
+
+     Las RRSS más conocidas son Twitter, Instagram, Facebook y Snapchat. Lo importante para cada usuario es verificar la veracidad de la información, ya que en la actualidad se presentan informaciones falsas y se debe tener cuidado al momento de leer y analizar dichos contenidos, buscando sus fuentes.</p>
+                                 <img src="img/redes%20sociales.jpg" width="600" height="200">                              
+          
+           <div id="pie">
+        <p>Copyright 2013 Maridian Con.</p>
+      </div>
+      </div>
+    </div>
+  </body>
+</html>

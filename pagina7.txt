@@ -51,7 +51,7 @@
       #contenido {
         background-color: darkkhaki;
         float:center;
-        height:1530px;
+        height:920px;
         padding:30px;
         width:1292px;
       }
@@ -74,19 +74,102 @@
     <div id="contenedor">
       <div id="cabecera">
         <div id="contenido">
-        <h1>IMPACTO DE LA TECNOLOGIA EN NUESTRAS VIDAS</h1>
+        <h1>CANCIONES PARA NIÑOS</h1>
    
-   <h2>Tecnologia y Mente</h2>
-     <p>Los mexicanos pasamos más de ocho horas al día interactuando con algún aparato tecnológico conectado a Internet, ya sea el celular, la computadora o tablet. Es imposible pensar que algo en lo que ya pasamos la mayor parte de nuestro tiempo no pueda tener un impacto (tanto positivo como negativo) en nuestra mente, lo tiene, y la tecnología ha marcado no sólo una nueva forma de relacionarnos con otros, sino también con nosotros mismos. La tecnología bien aplicada nos ayuda, por ejemplo: a organizarnos mejor, a aprender cosas nuevas, a llevar registro de nuestras metas y avances personales o a acortar distancias con amistades o familiares. Sin embargo, la otra cara de la moneda es que, al no ser conscientes, podemos bombardearnos de información dañina, estresante o buscar situaciones en las que estemos expuestos o en riesgo. Las universidades registran cada vez más casos de depresión y ansiedad que están directamente ligados al uso de redes sociales. Según la Asociación Mexicana de Internet, 82 % de los usuarios conectados a Internet están activos en alguna red social, siendo ésta la actividad principal en Internet por encima del mailing y la búsqueda de información. Además, según la última investigación de hábitos en Internet, se registró que los mexicanos pasamos en promedio ocho horas al día conectados (es decir, una jornada laboral), siendo el momento de la comida y el final del día las horas de mayor tráfico. Esto significa que, sin importar si nos encontramos solos o acompañados, estamos online, entonces ¿en dónde queda tiempo para la intimidad conmigo mismo y mis relaciones? En las redes sociales, interactuamos e intercambiamos información con personas con quienes de alguna manera tenemos algo en común, filtramos las cosas que subimos o eliminamos de nuestros perfiles con base en la cantidad de likes, shares o comments que recibimos. Esta “economía de la atención” depende enteramente de la reacción que nos provoca el interés de otros y sus respuestas en redes sociales. Estudios han encontrado que cada like genera producción de dopamina en el cerebro y la activación de sistemas vinculados a la recompensa, es por eso que las redes son tan adictivas. Una buena dosis de likes y de intercambios puede en efecto hacernos sentir muy bien y contribuir a nuestra autoestima, el problema viene cuando en el mundo exterior no hay nada que sustente mi autoestima y mis vínculos, por eso, el tema con las redes sociales, la tecnología y la mente, no tiene que ver con aislarnos y privarnos del intercambio, sino en aterrizar el cómo las usamos. En primer lugar, debemos tener presente que en las redes se tiende a apreciar los momentos de logro de las personas, los mayores likes vienen ante éxitos y situaciones excepcionales, así que eso es lo que la gente sube más, no sus instantes cotidianos, de duda, ansiedad o fracasos. Tener esto en mente es esencial, ya que los trastornos depresivos vinculados al uso de redes sociales tienen que ver con la comparación de nuestras vidas y momentos cotidianos con los de otros, sin considerar que se trata de cuestiones excepcionales.Otro factor de ansiedad en redes sociales tiene que ver con el FOMO, que significa fear of missing out, y se refiere literalmente al miedo que se genera al permanecer desconectado de las redes y así perderse la oportunidad de compartir una foto que iba a generar muchos likes o no enterarnos en tiempo real del chisme del momento e incluso sentir que perdemos la ocasión de conectarnos con otros.También tenemos fenómenos que no están relacionados con lo que publicamos, sino con lo que observamos en redes sociales. 75 % de los usuarios de Internet han sido testigos de ciberacoso o cyberbullying y el 40 % de los usuarios adultos de Internet lo han padecido en algún momento. La vulnerabilidad a la que nos vemos expuestos es otro factor estresante no sólo en adultos, sino también en adolescentes. Según la Asociación Canadiense de Salud Mental, los jóvenes de secundaria que pasan más de dos horas diarias en redes sociales reportan mayores síntomas de ansiedad, depresión e ideación suicida, y la OMS proyecta que si el cyberbullying continúa creciendo de la manera que lo ha hecho hasta ahora, para el 2025 se producirán alrededor de 85,000 suicidios al año. A pesar de tener datos tan alarmantes, no debemos satanizar las redes ni la tecnología, simplemente hay que tener presente que su impacto en la vida es importante y por eso debemos hacer uso responsable teniendo siempre nuestra salud y seguridad en mente.</p>
-                                    <img src="img/descarga.jpg" width="600" height="200" >
+<h2>Cucu, cantaba la rana</h2>
+<p>Cucú, cucú, cantaba la rana,
+Cucú, cucú, debajo del agua.
+
+Cucú, cucú, pasó un marinero
+Cucú, cucú, llevando romero.
+
+Cucú, cucú, pasó una criada
+Cucú, cucú, llevando ensalada.
+
+Cucú, cucú, pasó un caballero,
+Cucú, cucú, con capa y sombrero.
+
+Cucú, cucú, pasó una señora,
+Cucú, cucú, llevando unas moras.
+
+Cucú, cucú, le pedí un poquito,
+Cucú, cucú, no me quiso dar,
+Cucú, cucú, me puse a llorar.</p>
+                                    <img src="img/cucu%20la%20rana.jpg" width="600" height="200" >
         
-   <h3>Tecnologia y Trabajo</h3>
-     <p>Según la revista Forbes, 33 % de los internautas que se encuentran activos en redes sociales están en edad laboral, siendo Facebook (95 %), Youtube (60 %) y Twitter (56 %) las más comunes. Hay muchas ventajas del uso de la tecnología y del uso de las redes sociales dentro del ámbito laboral: en primer lugar, la tecnología ha hecho que los trabajos sean más flexibles y que el home office o el remote office sean posibles, para evitar factores estresantes como el tráfico o el “ir a calentar la silla”, y así optimizar el tiempo de los empleados, eliminando barreras de horarios, distancias y contribuyendo a formar un sentimiento de productividad y asertividad en el manejo de los horarios. Por otro lado, la convivencia en redes sociales, si bien aumenta el riesgo de mobbing (acoso laboral), también promueve la interacción de los empleados, el fortalecimiento de la identidad empresarial, así como la relación de la empresa con los clientes. Estudios han demostrado que 75 % de las personas se inclinan a consumir un producto que siguen en línea a los que no. La investigación sobre la productividad laboral y el uso de redes sociales sigue en tela de juicio, habiendo estudios que se inclinan a favor y en contra. Las redes sociales y la tecnología son herramientas, su buen o mal uso depende de quien las usa y cómo las usa.</p>
-                                     <img src="img/tecnologia%20%20y%20trabajo.jpg" width="600" height="200">
+<h3>Yo tenia 10 perritos</h3>
+<p>Yo tenía diez perritos,
+yo tenía diez perritos.
+
+Uno se perdió en la nieve.
+Nada más me quedan nueve.
+
+De los nueve que quedaban (bis)
+uno se comió un bizcocho.
+Nada más me quedan ocho.
+
+De los ocho que quedaban (bis)
+uno se subió a un cohete.
+Nada más me quedan siete.
+
+De los siete que quedaban (bis)
+uno se tragó un ciempiés.
+Nada más me quedan seis.
+
+De los seis que quedaban (bis)
+uno se mató de un brinco.
+Nada más me quedan cinco.
+
+De los cinco que quedaban (bis)
+uno se perdió en un teatro.
+Nada más me quedan cuatro.
+
+De los cuatro que quedaban (bis)
+uno se lo llevó Andrés.
+Nada más me quedan tres.
+
+De los tres que me quedaban (bis)
+uno se murió de tos.
+Nada más me quedan dos.
+
+De los dos que me quedaban (bis)
+uno se lo llevó Bruno.
+Nada más me queda uno.
+
+De ese uno que quedaba
+Lo mató una bicicleta
+y quedó el pobre aplastado debajo de la baqueta.
+
+Aquí se acaba la historia
+de los perros que perdí
+y si usted no lo ha entendido
+se la vuelvo a repetir.</p>
+                                     <img src="img/10%20perritos.jpg" width="600" height="200">
           
-          <h4>Tecnologia y Familia</h4>
-          <p>Sin duda, la tecnología ha presentado nuevos retos para las familias actuales, especialmente en términos de comunicación, pero también ofrece nuevas formas de convivencia. En primer lugar, hay que enfocarnos en que las tecnologías son herramientas que nos ofrecen alternativas, así que hay que usarlas a nuestro favor y entender el papel que tienen en la vida de nuestros seres queridos. Como papás, es importante entender que los niños no “nacen con el chip integrado”, saber operar y manipular un gadget (que, valga decir, está diseñado justamente para operar de manera intuitiva) no significa que saben usarlo con responsabilidad y ética. Como papás, hay que ofrecer una guía para nuestros hijos y entender las redes que tienen a su alcance. También podemos comprender ciertos fenómenos y explicárselos a nuestros hijos, por ejemplo, la UNICEF señala que al interactuar por Internet los límites que existen en el mundo físico no quedan tan claros, así que tendemos a generalizar o exagerar los vínculos; hay que aclarar que no toda persona que tengamos en redes sociales es un amigo o es de confianza. Los adolescentes son una población particulamente vulnerable, ya que tienden a buscar vínculos intensos en los que predomina la idealización. Desde pequeños, debemos enseñarles a usar filtros de seguridad, a no compartir datos personales y a fortalecer su autoestima mediante la convivencia de calidad con ellos. Jamás se habían visto tantas películas, series, fotos o videos en una semana. Todas esas imágenes —positivas o negativas— permanecen en nuestras mentes, para bien y para mal. La propia tecnología ofrece alternativas muy divertidas para vincularse como familia y acercarse, como ver series en Netflix y los juegos en línea, pero la idea es que no dejemos que se vuelva una distracción, sino un momento de convivencia y diálogo. También aplicaciones como Homester buscan fomentar el diálogo entre padres e hijos enfocándose al trabajo de límites y reglas, permisos, recompensas, etcétera. En México se comienza a tener acceso a Internet (por medio de apps o juegos) desde los tres años de edad, así que, como familia, vale la pena comenzar a establecer reglas con los gadgets, poniendo límites por ejemplo de edad (fijar una edad para tener celular), de tiempo o de seguridad (limitando el uso de ciertas aplicaciones). Este encuadre puede también fomentar el tiempo con la familia, solos o incluso realizando una actividad recreativa, como hacer ejercicio o leer. Es nuestra responsabilidad saber usar lo que tenemos al alcance, no sólo a nivel operativo, sino también ético.</p>
-                                        <img src="img/tecnologia%20%20y%20familia.jpg" width="600" height="200">
+<h4>La vaca lechera</h4>
+<p>Tengo una vaca lechera
+No es una vaca cualquiera
+Me da leche merengada
+¡Ay que vaca tan salada!
+Tolón tolón, tolón tolón.
+
+Un cencerro le compraron
+y a mi vaca le ha gustado
+se pasea por el prado
+mata mosca con su rabo
+Tolón tolón, tolón tolón.
+
+Que felices viviremos
+Cuando vengas a mi lado
+Con sus quesos, con tus besos,
+Los tres juntos, ¡que ilusión!
+
+Tengo una vaca lechera
+No es una vaca cualquiera
+Me da leche merengada
+¡Ay que vaca tan salada!
+Tolón tolón, tolón tolón.</p>
+                                        <img src="img/vaca%20lechera.jpg" width="600" height="200">
                                              
           
            <div id="pie">
